@@ -1,10 +1,9 @@
 - 👋 HI, my name is RODRIGO SALAS DELGADO
 - 
-- Soy una persona con buenas actitudes para trabajar en equipo
-o individualmente, sin problemas para asumir responsabilidades,
-minuciosa y perfeccionista en el trabajo. Con capacidad para
-resolver imprevistos o situaciones complicadas. Siempre dispuesto
-a aprender cosas nuevas.
+- I am a person with good attitudes for working both in a team and individually,
+- with no problems assuming responsibilities, meticulous, and perfectionist in my work.
+- Capable of solving unforeseen events or complicated situations.
+- Always willing to learn new things. Lover of technology.
 
 - 👀 I’m interested in DEVELOPMENT and CYBERSECURITY.
 - 🌱 I’m currently learning other programming languages and cybersecurity."
