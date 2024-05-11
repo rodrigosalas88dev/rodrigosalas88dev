@@ -1,4 +1,4 @@
-<img alt="" src="" width='40' align="left"/><h2 align="left">👋Hey there! I'm Rodrigo Salas Delgado💻</h2>
+<img alt="" src="" width='40' align="center"/><h2 align="center">👋Hey there! I'm Rodrigo Salas Delgado💻</h2>
 
 <!-- ## 👋Hey there! I'm Rodrigo Salas Delgado -->
 
