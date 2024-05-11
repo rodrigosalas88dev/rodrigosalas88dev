@@ -14,7 +14,7 @@ I am always eager to learn new things.
 💡&nbsp;I’m looking to collaborate on different PYTHON Backend development and CYBERSECURITY projects.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 🚀 &nbsp;How to reach me LINKEDIN: www.linkedin.com/in/rodrigosalas88dev \
-✉️ &nbsp;You can shoot me an email at rodrigosalas88@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at rodrigosalas88@gmail.com! I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack
