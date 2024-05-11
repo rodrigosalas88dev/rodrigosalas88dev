@@ -18,25 +18,20 @@ I am always eager to learn new things.
 
 
 ### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+<img src="https://skillicons.dev/icons?i=py,html,fastapi,django,git,github,pycharm,vscode,bash,windows,linux,ps&perline=12" />
 
 ### 🧰 &nbsp;Version Controll & Tools 
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="">
 <a href="https://www.linkedin.com/in/rodrigosalas88dev/"><img src="https://img.shields.io/badge/-Rodrigo Salas Delgado%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rodrigosalas88@gmail.com"><img src="https://img.shields.io/badge/-rodrigosalas88-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
 
 
 <!---
