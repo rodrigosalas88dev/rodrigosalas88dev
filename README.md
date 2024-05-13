@@ -17,7 +17,7 @@ I am always eager to learn new things.
 ✉️ &nbsp;You can shoot me an email at rodrigosalas88@gmail.com! I'll try to respond as soon as I can.
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Knowledge
 <img src="https://skillicons.dev/icons?i=py,html,fastapi,django,git,github,pycharm,vscode,bash,windows,linux,ps&perline=12" />
 
 ### 🧰 &nbsp;Version Controll & Tools 
